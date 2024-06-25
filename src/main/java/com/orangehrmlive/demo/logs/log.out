@@ -1,0 +1,157 @@
+2024-06-25 19:06:888 INFO  LoginPage :37 - Enter email Admin to username fieldAdmin
+2024-06-25 19:06:185 INFO  LoginPage :43 - Enter password [[ChromeDriver: chrome on windows (f5b696d140d05cf63dd63944bada772d)] -> name: password] to password fieldadmin123
+2024-06-25 19:06:252 INFO  LoginPage :49 - Clicking on login button
+2024-06-25 19:06:781 INFO  HomePage :28 - Get welcome text
+2024-06-25 19:06:03 INFO  LoginPage :37 - Enter email Admin to username fieldAdmin
+2024-06-25 19:06:625 INFO  LoginPage :43 - Enter password [[ChromeDriver: chrome on windows (841e23c1152cf9020d1ef44a6ce6698d)] -> name: password] to password fieldadmin123
+2024-06-25 19:06:691 INFO  LoginPage :49 - Clicking on login button
+2024-06-25 19:06:228 INFO  HomePage :33 - Get orangehrm logo
+2024-06-25 19:06:367 INFO  LoginPage :37 - Enter email Admin to username fieldAdmin
+2024-06-25 19:06:941 INFO  LoginPage :43 - Enter password [[ChromeDriver: chrome on windows (c8833cf3468b971fcc94a51d6a914fcc)] -> name: password] to password fieldadmin123
+2024-06-25 19:06:07 INFO  LoginPage :49 - Clicking on login button
+2024-06-25 19:06:505 INFO  DashboardPage :22 - clicking on user link[[ChromeDriver: chrome on windows (c8833cf3468b971fcc94a51d6a914fcc)] -> xpath: //p[@class='oxd-userdropdown-name']]
+2024-06-25 19:06:559 INFO  DashboardPage :27 - clicking on logout button[[ChromeDriver: chrome on windows (c8833cf3468b971fcc94a51d6a914fcc)] -> xpath: //a[normalize-space()='Logout']]
+2024-06-25 19:06:699 INFO  LoginPage :30 - Get text from login 
+2024-06-25 19:06:692 INFO  LoginPage :37 - Enter email  to username field
+2024-06-25 19:06:498 INFO  LoginPage :43 - Enter password [[ChromeDriver: chrome on windows (482e6f517138327a244ea5d4615e3920)] -> name: password] to password field
+2024-06-25 19:06:546 INFO  LoginPage :49 - Clicking on login button
+2024-06-25 19:06:600 INFO  HomePage :38 - Get error text
+2024-06-25 19:06:315 INFO  LoginPage :37 - Enter email test123@gmail.com to username fieldtest123@gmail.com
+2024-06-25 19:06:973 INFO  LoginPage :43 - Enter password [[ChromeDriver: chrome on windows (6a07dfa23b718fa87b1f55de24149b99)] -> name: password] to password field
+2024-06-25 19:06:17 INFO  LoginPage :49 - Clicking on login button
+2024-06-25 19:06:65 INFO  HomePage :38 - Get error text
+2024-06-25 19:06:764 INFO  LoginPage :37 - Enter email Admin to username fieldAdmin
+2024-06-25 19:06:367 INFO  LoginPage :43 - Enter password [[ChromeDriver: chrome on windows (1cfede34030d0ea93090dd914ed5ece3)] -> name: password] to password fieldadmin123
+2024-06-25 19:06:431 INFO  LoginPage :49 - Clicking on login button
+2024-06-25 19:06:892 INFO  AdminPage :18 - CLick on admin button 
+2024-06-25 19:06:765 INFO  ViewSystemUserPage :48 - Verify text [[ChromeDriver: chrome on windows (1cfede34030d0ea93090dd914ed5ece3)] -> xpath: //h5[normalize-space()='System Users']]
+2024-06-25 19:06:784 INFO  AddUserPage :66 - CLick on add button 
+2024-06-25 19:06:46 INFO  AddUserPage :71 - Verify text [[ChromeDriver: chrome on windows (1cfede34030d0ea93090dd914ed5ece3)] -> xpath: //h6[normalize-space()='Add User']]
+2024-06-25 19:06:58 INFO  AddUserPage :76 - select text Admin
+2024-06-25 19:06:162 INFO  AddUserPage :99 - send emplyee name  Ranga Akunuri
+2024-06-25 19:06:247 INFO  AddUserPage :104 - select employee role Ranga Akunuri
+2024-06-25 19:06:296 INFO  AddUserPage :87 - select user status Disabled
+2024-06-25 19:06:400 INFO  AddUserPage :115 - send the user name rupaani
+2024-06-25 19:06:474 INFO  AddUserPage :120 - enter the passwordprime123
+2024-06-25 19:06:547 INFO  AddUserPage :125 - enter the confirmed passwordprime123
+2024-06-25 19:06:631 INFO  AddUserPage :130 - click on save button
+2024-06-25 19:06:737 INFO  AddUserPage :140 - get saved messageProxy element for: DefaultElementLocator 'By.xpath: //p[@class='oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text']'
+2024-06-25 19:06:575 INFO  LoginPage :37 - Enter email Admin to username fieldAdmin
+2024-06-25 19:06:191 INFO  LoginPage :43 - Enter password [[ChromeDriver: chrome on windows (8a04629706b942180a9a2cdf3add6a87)] -> name: password] to password fieldadmin123
+2024-06-25 19:06:258 INFO  LoginPage :49 - Clicking on login button
+2024-06-25 19:06:735 INFO  AdminPage :18 - CLick on admin button 
+2024-06-25 19:06:649 INFO  ViewSystemUserPage :48 - Verify text Proxy element for: DefaultElementLocator 'By.xpath: //h5[normalize-space()='System Users']'
+2024-06-25 19:06:387 INFO  LoginPage :37 - Enter email Admin to username fieldAdmin
+2024-06-25 19:06:201 INFO  LoginPage :43 - Enter password [[ChromeDriver: chrome on windows (69a19c3a6a5aa9bd65205fae23954b4c)] -> name: password] to password fieldadmin123
+2024-06-25 19:06:272 INFO  LoginPage :49 - Clicking on login button
+2024-06-25 19:06:327 INFO  AdminPage :18 - CLick on admin button 
+2024-06-25 19:06:395 INFO  ViewSystemUserPage :48 - Verify text [[ChromeDriver: chrome on windows (69a19c3a6a5aa9bd65205fae23954b4c)] -> xpath: //h5[normalize-space()='System Users']]
+2024-06-25 19:06:413 INFO  AddUserPage :115 - send the user name rupaani
+2024-06-25 19:06:471 INFO  AddUserPage :76 - select text Admin
+2024-06-25 19:06:558 INFO  AddUserPage :99 - send emplyee name  Ranga Akunuri
+2024-06-25 19:06:621 INFO  AddUserPage :104 - select employee role Ranga Akunuri
+2024-06-25 19:06:672 INFO  AddUserPage :87 - select user status Disabled
+2024-06-25 19:06:766 INFO  AddUserPage :135 - clicked on the seach button 
+2024-06-25 19:06:824 INFO  AddUserPage :145 - Verify the text 
+2024-06-25 19:06:526 INFO  LoginPage :37 - Enter email Admin to username fieldAdmin
+2024-06-25 19:06:136 INFO  LoginPage :43 - Enter password [[ChromeDriver: chrome on windows (bc13aad6a173adef0703673447a56a03)] -> name: password] to password fieldadmin123
+2024-06-25 19:06:199 INFO  LoginPage :49 - Clicking on login button
+2024-06-25 19:06:658 INFO  AdminPage :18 - CLick on admin button 
+2024-06-25 19:06:546 INFO  ViewSystemUserPage :48 - Verify text [[ChromeDriver: chrome on windows (bc13aad6a173adef0703673447a56a03)] -> xpath: //h5[normalize-space()='System Users']]
+2024-06-25 19:06:561 INFO  AddUserPage :115 - send the user name FMLName
+2024-06-25 19:06:639 INFO  AddUserPage :76 - select text ESS
+2024-06-25 19:06:727 INFO  AddUserPage :99 - send emplyee name  Qwerty Qwerty LName
+2024-06-25 19:06:827 INFO  AddUserPage :104 - select employee role Qwerty Qwerty LName
+2024-06-25 19:06:881 INFO  AddUserPage :87 - select user status Enabled
+2024-06-25 19:06:977 INFO  AddUserPage :135 - clicked on the seach button 
+2024-06-25 19:06:39 INFO  AddUserPage :145 - Verify the text 
+2024-06-25 19:06:57 INFO  ViewSystemUserPage :54 - Verify the user FMLName
+2024-06-25 19:06:112 INFO  ViewSystemUserPage :87 - clicked on reset button 
+2024-06-25 20:06:276 INFO  LoginPage :37 - Enter email Admin to username fieldAdmin
+2024-06-25 20:06:864 INFO  LoginPage :43 - Enter password [[ChromeDriver: chrome on windows (dfc67d930ec931a215fb39e32aea3789)] -> name: password] to password fieldadmin123
+2024-06-25 20:06:933 INFO  LoginPage :49 - Clicking on login button
+2024-06-25 20:06:393 INFO  HomePage :28 - Get welcome text
+2024-06-25 20:06:550 INFO  LoginPage :37 - Enter email Admin to username fieldAdmin
+2024-06-25 20:06:139 INFO  LoginPage :43 - Enter password [[ChromeDriver: chrome on windows (c16bab1b0e09a89d011485ef05f50b38)] -> name: password] to password fieldadmin123
+2024-06-25 20:06:207 INFO  LoginPage :49 - Clicking on login button
+2024-06-25 20:06:738 INFO  HomePage :33 - Get orangehrm logo
+2024-06-25 20:06:709 INFO  LoginPage :37 - Enter email Admin to username fieldAdmin
+2024-06-25 20:06:284 INFO  LoginPage :43 - Enter password [[ChromeDriver: chrome on windows (3a73d480e1da9f3c1d1c4550648c3d7a)] -> name: password] to password fieldadmin123
+2024-06-25 20:06:354 INFO  LoginPage :49 - Clicking on login button
+2024-06-25 20:06:899 INFO  DashboardPage :22 - clicking on user link[[ChromeDriver: chrome on windows (3a73d480e1da9f3c1d1c4550648c3d7a)] -> xpath: //p[@class='oxd-userdropdown-name']]
+2024-06-25 20:06:945 INFO  DashboardPage :27 - clicking on logout button[[ChromeDriver: chrome on windows (3a73d480e1da9f3c1d1c4550648c3d7a)] -> xpath: //a[normalize-space()='Logout']]
+2024-06-25 20:06:200 INFO  LoginPage :30 - Get text from login 
+2024-06-25 20:06:188 INFO  LoginPage :37 - Enter email  to username field
+2024-06-25 20:06:837 INFO  LoginPage :43 - Enter password [[ChromeDriver: chrome on windows (cc2cf304f1ba2b80d5eaf73c0c4a0808)] -> name: password] to password field
+2024-06-25 20:06:885 INFO  LoginPage :49 - Clicking on login button
+2024-06-25 20:06:939 INFO  HomePage :38 - Get error text
+2024-06-25 20:06:445 INFO  LoginPage :37 - Enter email test123@gmail.com to username fieldtest123@gmail.com
+2024-06-25 20:06:124 INFO  LoginPage :43 - Enter password [[ChromeDriver: chrome on windows (2c547e944a0d40e810d0c397ec193d3b)] -> name: password] to password field
+2024-06-25 20:06:167 INFO  LoginPage :49 - Clicking on login button
+2024-06-25 20:06:216 INFO  HomePage :38 - Get error text
+2024-06-25 20:06:831 INFO  LoginPage :37 - Enter email Admin to username fieldAdmin
+2024-06-25 20:06:433 INFO  LoginPage :43 - Enter password [[ChromeDriver: chrome on windows (f4e0ef2ed613754a8c62853867c5e639)] -> name: password] to password fieldadmin123
+2024-06-25 20:06:498 INFO  LoginPage :49 - Clicking on login button
+2024-06-25 20:06:944 INFO  AdminPage :18 - CLick on admin button 
+2024-06-25 20:06:766 INFO  ViewSystemUserPage :48 - Verify text [[ChromeDriver: chrome on windows (f4e0ef2ed613754a8c62853867c5e639)] -> xpath: //h5[normalize-space()='System Users']]
+2024-06-25 20:06:784 INFO  AddUserPage :66 - CLick on add button 
+2024-06-25 20:06:987 INFO  AddUserPage :71 - Verify text [[ChromeDriver: chrome on windows (f4e0ef2ed613754a8c62853867c5e639)] -> xpath: //h6[normalize-space()='Add User']]
+2024-06-25 20:06:997 INFO  AddUserPage :76 - select text Admin
+2024-06-25 20:06:88 INFO  AddUserPage :99 - send emplyee name  Ranga Akunuri
+2024-06-25 20:06:177 INFO  AddUserPage :104 - select employee role Ranga Akunuri
+2024-06-25 20:06:240 INFO  AddUserPage :87 - select user status Disabled
+2024-06-25 20:06:349 INFO  AddUserPage :115 - send the user name rupaani
+2024-06-25 20:06:425 INFO  AddUserPage :120 - enter the passwordprime123
+2024-06-25 20:06:503 INFO  AddUserPage :125 - enter the confirmed passwordprime123
+2024-06-25 20:06:575 INFO  AddUserPage :130 - click on save button
+2024-06-25 20:06:619 INFO  AddUserPage :140 - get saved message[[ChromeDriver: chrome on windows (f4e0ef2ed613754a8c62853867c5e639)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text']]
+2024-06-25 20:06:421 INFO  LoginPage :37 - Enter email Admin to username fieldAdmin
+2024-06-25 20:06:997 INFO  LoginPage :43 - Enter password [[ChromeDriver: chrome on windows (f0261855ba9f9dfbf5a6f7ec00bb8e7f)] -> name: password] to password fieldadmin123
+2024-06-25 20:06:63 INFO  LoginPage :49 - Clicking on login button
+2024-06-25 20:06:474 INFO  AdminPage :18 - CLick on admin button 
+2024-06-25 20:06:41 INFO  ViewSystemUserPage :48 - Verify text [[ChromeDriver: chrome on windows (f0261855ba9f9dfbf5a6f7ec00bb8e7f)] -> xpath: //h5[normalize-space()='System Users']]
+2024-06-25 20:06:62 INFO  AddUserPage :115 - send the user name rupaani
+2024-06-25 20:06:136 INFO  AddUserPage :76 - select text Admin
+2024-06-25 20:06:233 INFO  AddUserPage :99 - send emplyee name  Ranga Akunuri
+2024-06-25 20:06:318 INFO  AddUserPage :104 - select employee role Ranga Akunuri
+2024-06-25 20:06:381 INFO  AddUserPage :87 - select user status Disabled
+2024-06-25 20:06:486 INFO  AddUserPage :135 - clicked on the seach button 
+2024-06-25 20:06:547 INFO  AddUserPage :145 - Verify the text 
+2024-06-25 20:06:192 INFO  LoginPage :37 - Enter email Admin to username fieldAdmin
+2024-06-25 20:06:809 INFO  LoginPage :43 - Enter password [[ChromeDriver: chrome on windows (78659d7bf93fa3fa7416cc74766ca959)] -> name: password] to password fieldadmin123
+2024-06-25 20:06:873 INFO  LoginPage :49 - Clicking on login button
+2024-06-25 20:06:272 INFO  AdminPage :18 - CLick on admin button 
+2024-06-25 20:06:81 INFO  ViewSystemUserPage :48 - Verify text [[ChromeDriver: chrome on windows (78659d7bf93fa3fa7416cc74766ca959)] -> xpath: //h5[normalize-space()='System Users']]
+2024-06-25 20:06:97 INFO  AddUserPage :115 - send the user name rupaani
+2024-06-25 20:06:174 INFO  AddUserPage :76 - select text Admin
+2024-06-25 20:06:259 INFO  AddUserPage :99 - send emplyee name  Ranga Akunuri
+2024-06-25 20:06:342 INFO  AddUserPage :104 - select employee role Ranga Akunuri
+2024-06-25 20:06:406 INFO  AddUserPage :87 - select user status Disabled
+2024-06-25 20:06:511 INFO  AddUserPage :135 - clicked on the seach button 
+2024-06-25 20:06:560 INFO  AddUserPage :145 - Verify the text 
+2024-06-25 20:06:242 INFO  LoginPage :37 - Enter email Admin to username fieldAdmin
+2024-06-25 20:06:835 INFO  LoginPage :43 - Enter password [[ChromeDriver: chrome on windows (37b5b83187ced667da9100f17b562e81)] -> name: password] to password fieldadmin123
+2024-06-25 20:06:905 INFO  LoginPage :49 - Clicking on login button
+2024-06-25 20:06:309 INFO  AdminPage :18 - CLick on admin button 
+2024-06-25 20:06:677 INFO  ViewSystemUserPage :48 - Verify text [[ChromeDriver: chrome on windows (37b5b83187ced667da9100f17b562e81)] -> xpath: //h5[normalize-space()='System Users']]
+2024-06-25 20:06:693 INFO  AddUserPage :115 - send the user name FMLName
+2024-06-25 20:06:765 INFO  AddUserPage :76 - select text ESS
+2024-06-25 20:06:852 INFO  AddUserPage :99 - send emplyee name  Qwerty Qwerty LName
+2024-06-25 20:06:951 INFO  AddUserPage :104 - select employee role Qwerty Qwerty LName
+2024-06-25 20:06:10 INFO  AddUserPage :87 - select user status Enabled
+2024-06-25 20:06:99 INFO  AddUserPage :135 - clicked on the seach button 
+2024-06-25 20:06:155 INFO  AddUserPage :145 - Verify the text 
+2024-06-25 20:06:176 INFO  ViewSystemUserPage :54 - Verify the user FMLName
+2024-06-25 20:06:233 INFO  ViewSystemUserPage :87 - clicked on reset button 
+2024-06-25 20:06:626 INFO  LoginPage :37 - Enter email Admin to username fieldAdmin
+2024-06-25 20:06:297 INFO  LoginPage :43 - Enter password [[ChromeDriver: chrome on windows (7fb3b90a2c5d03fb9a88fbaaf9a1bdea)] -> name: password] to password fieldadmin123
+2024-06-25 20:06:369 INFO  LoginPage :49 - Clicking on login button
+2024-06-25 20:06:983 INFO  AdminPage :18 - CLick on admin button 
+2024-06-25 20:06:722 INFO  ViewSystemUserPage :48 - Verify text [[ChromeDriver: chrome on windows (7fb3b90a2c5d03fb9a88fbaaf9a1bdea)] -> xpath: //h5[normalize-space()='System Users']]
+2024-06-25 20:06:749 INFO  AddUserPage :115 - send the user name rupaani
+2024-06-25 20:06:825 INFO  AddUserPage :76 - select text Admin
+2024-06-25 20:06:940 INFO  AddUserPage :99 - send emplyee name  Ranga Akunuri
+2024-06-25 20:06:41 INFO  AddUserPage :104 - select employee role Ranga Akunuri
+2024-06-25 20:06:108 INFO  AddUserPage :87 - select user status Disabled
+2024-06-25 20:06:215 INFO  AddUserPage :135 - clicked on the seach button 
+2024-06-25 20:06:276 INFO  AddUserPage :145 - Verify the text 
